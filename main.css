@@ -40,7 +40,7 @@ header {
   flex-grow: 1;
   display: flex;
   border-radius: 15px;
-  border: 1px solid #f4f4f4;
+  border: 1px solid #ddd;
 }
 
 .searchBox button {
