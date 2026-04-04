@@ -54,6 +54,10 @@
    color: black;
 }
 
+.fa-cart-shopping {
+   color: rgb(12, 131, 31);
+}
+
  .bannerSection {
    display: none;
  }
