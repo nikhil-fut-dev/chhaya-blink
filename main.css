@@ -110,7 +110,7 @@ header {
 }
 
 .orderBannerItems {
-  flex-basis: 50%;
+  flex-basis: 32%;
   margin: 1%;
 }
 
@@ -131,4 +131,8 @@ header {
 
 .categoryItems img {
   width: 100%;
+}
+
+.categoryItems img:hover {
+  cursor: pointer;
 }
