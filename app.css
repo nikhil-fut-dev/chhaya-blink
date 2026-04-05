@@ -78,4 +78,13 @@
  .productItems {
    flex-basis: 49%;
  }
+
+ footer{
+   padding-top: 0px;
+ }
+
+ .footer-mid-row1{
+   padding: 10px;
+   flex-direction: column;
+ }
 }
