@@ -70,4 +70,12 @@
  .categoryItems {
    flex-basis: 25%;
  }
+
+ .productSection {
+   padding: 30px 10px;
+ }
+
+ .productItems {
+   flex-basis: 49%;
+ }
 }
