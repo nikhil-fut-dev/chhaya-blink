@@ -319,7 +319,7 @@ footer {
   gap: 20px;
 }
 
-.socialLink i {
+.socialLink a {
   font-weight: 0.1;
   font-size: 20px;
   width: 40px;
